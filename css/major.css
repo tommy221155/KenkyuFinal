@@ -22,7 +22,6 @@
 }
 
 .major-list {
-    display: flex;
     padding-top: 40px;
     padding-bottom: 10px;
     padding-left: 60px;
@@ -36,6 +35,7 @@
     margin-left: 75px;
     margin-right: 20px;
     float: left;
+    display: flex;
 }
 
 .major-list li:first-child {
