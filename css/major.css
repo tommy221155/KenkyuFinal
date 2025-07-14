@@ -34,14 +34,10 @@
 .major-list li {
     flex-shrink: 0;
     width: 260px;
-    margin-left: 75px;
+    margin-left: 0px;
     margin-right: 20px;
     float: left;
     display: flex;
-}
-
-.major-list li:first-child {
-    margin-left: 0;
 }
 
 @media (max-width: 800px) {
