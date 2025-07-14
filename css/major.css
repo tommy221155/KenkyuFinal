@@ -34,8 +34,6 @@
     flex-shrink: 0;
     width: 260px;
     margin-left: 75px;
-    display: flex;
-    justify-content: space-between;
 }
 
 .major-list li:first-child {
