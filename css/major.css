@@ -39,6 +39,14 @@
     display: flex;
 }
 
+.major-list li.a {
+    flex-shrink: 0;
+    width: 800px;
+    margin-left: 400px;
+    margin-right: 0px;
+    display: flex;
+}
+
 @media (max-width: 800px) {
     .major-list {
         padding-left: 20px;
