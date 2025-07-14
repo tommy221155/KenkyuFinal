@@ -33,9 +33,9 @@
 
 .major-list li {
     flex-shrink: 0;
-    width: 600px;
+    width: 800px;
     margin-left: 0px;
-    margin-right: 20px;
+    margin-right: 0px;
     display: flex;
 }
 
