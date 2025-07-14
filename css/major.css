@@ -25,7 +25,7 @@
     padding-top: 40px;
     padding-bottom: 10px;
     padding-left: 60px;
-    padding-right: 180px;
+    padding-right: 60px;
     overflow: scroll;
     display: flex;
     flex-direction: column;
@@ -47,7 +47,7 @@
     }
     
     .major-list li {
-        width: 220px;
+        width: 700px;
         margin-left: 30px;
     }
 }
