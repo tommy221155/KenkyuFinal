@@ -27,6 +27,8 @@
     padding-left: 60px;
     padding-right: 60px;
     overflow: scroll;
+    display: flex;
+    flex-direction: column;
 }
 
 .major-list li {
@@ -35,7 +37,7 @@
     margin-left: 75px;
     margin-right: 20px;
     float: left;
-    display: block;
+    display: flex;
 }
 
 .major-list li:first-child {
