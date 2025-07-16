@@ -41,6 +41,7 @@
 }
 
 .box {
+    line-height: 1.8;
     text-indent: 1em;
     background-color: #f9f9f9;
     padding: 20px;
