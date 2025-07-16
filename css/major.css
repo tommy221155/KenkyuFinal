@@ -19,7 +19,6 @@
     margin-top: 20px;
     margin-left: auto;
     margin-right: auto;
-    padding-top: 20px;
 }
 
 
@@ -69,6 +68,6 @@
 
 .major start{
     font-size: 22px;
-    margin-top: 10px;
-    margin-left: 10px;
+    padding-left: 10px;
+    padding-top: 20px;
 }
