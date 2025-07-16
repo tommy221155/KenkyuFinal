@@ -28,6 +28,15 @@
     display: flex;
 }
 
+.pageSetumei{
+    text-align: center;
+}
+
+.hukudai{
+    font-weight: bold;
+    text-align: left;
+}
+
 @media (max-width: 800px) {
     .member-list {
         padding-left: 20px;
