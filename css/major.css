@@ -25,8 +25,8 @@
 .major-list {
     padding-top: 40px;
     padding-bottom: 10px;
-    padding-left: auto;
-    padding-right: auto;
+    padding-left: 40px;
+    padding-right: 40px;
     display: flex;
     flex-direction: column;
 }
@@ -35,23 +35,18 @@
     flex-shrink: 0;
     max-width: 1200px;
     display: flex;
-    padding-left: auto;
-    padding-right: auto;
+    padding-left: 40px;
+    padding-right: 40px;
 }
 
 @media (max-width: 800px) {
     .major h2 {
-        width: 800px;
         font-size: 22px;
         font-weight: bold;
         text-align: center;
     }
     
-    .major-list li {
-        width: 700px;
-    }
     .start{
-        width: 700px;
         font-size: 22px;
         margin-top: 10px;
         margin-left: 10px;
