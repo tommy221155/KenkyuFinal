@@ -34,7 +34,7 @@
 
 .member-list li {
     flex-shrink: 0;
-    width: 260px;
+    width: 800px;
     margin-left: 75px;
     display: flex;
 }
