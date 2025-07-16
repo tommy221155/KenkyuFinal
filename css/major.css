@@ -35,6 +35,8 @@
 .major-list li {
     flex-shrink: 0;
     display: flex;
+    padding-top: 10px;
+    padding-bottom: 10px;
     padding-left: 40px;
     padding-right: 40px;
 }
