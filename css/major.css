@@ -43,6 +43,12 @@
 }
 
 @media (max-width: 800px) {
+    img {
+        width: 50%;
+        height: 50%;
+        object-fit: contain;
+    }
+
     .major h2 {
         font-size: 22px;
         font-weight: bold;
