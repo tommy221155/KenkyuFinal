@@ -21,6 +21,12 @@
     margin-right: auto;
 }
 
+.major start{
+    font-size: 22px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
 .major-list {
     padding-top: 40px;
     padding-bottom: 10px;
@@ -59,8 +65,3 @@
     font-size: 33px;
 }
 
-.start{
-    font-size: 22px;
-    margin-top: 10px;
-    margin-left: 10px;
-}
