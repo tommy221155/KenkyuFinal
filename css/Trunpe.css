@@ -60,14 +60,12 @@
         background-color: #f9f9f9;
         padding-right: 20px;
         padding-left: 20px;
-        margin-right: 20px;
-        margin-left: 20px;
     }
     
     .pageSetumei{
         width: 800px;
-        margin-top: 20px;
-        margin-bottom: 20px;
+        padding-top: 20px;
+        padding-bottom: 20px;
         text-align: center;
     }
 
