@@ -35,6 +35,8 @@
     flex-shrink: 0;
     max-width: 1200px;
     display: flex;
+    padding-left: auto;
+    padding-right: auto;
 }
 
 @media (max-width: 800px) {
@@ -51,8 +53,8 @@
     .start{
         width: 700px;
         font-size: 22px;
-        margin-top: auto;
-        margin-left: auto;
+        margin-top: 10px;
+        margin-left: 10px;
     }
 }
 
