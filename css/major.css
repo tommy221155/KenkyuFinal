@@ -68,7 +68,7 @@
         padding-right: 20px;
     }
 
-    .seconde-items{
+    .major-list li:second-child{
         flex-direction: column-reverse;
     }
 
