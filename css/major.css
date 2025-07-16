@@ -68,7 +68,7 @@
         padding-right: 20px;
     }
 
-    .major-list li:second-child{
+    .major-list li:nth-child(2){
         flex-direction: column-reverse;
     }
 
