@@ -40,6 +40,13 @@
 }
 
 @media (max-width: 800px) {
+    .major h2 {
+        width: 800px;
+        font-size: 22px;
+        font-weight: bold;
+        text-align: center;
+    }
+
     .major-list {
         padding-left: 20px;
         padding-right: 20px;
