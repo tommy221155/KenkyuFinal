@@ -50,6 +50,12 @@
         margin-left: 30px;
         margin-right: 30px;
     }
+    .major start{
+        width: 700px;
+        font-size: 22px;
+        margin-top: 10px;
+        margin-left: 10px;
+    }
 }
 
 .setumei{
@@ -62,6 +68,6 @@
 
 .major start{
     font-size: 22px;
-    margin-top: 10px;
-    margin-left: 10px;
+    padding-left: 10px;
+    padding-top: 20px;
 }
