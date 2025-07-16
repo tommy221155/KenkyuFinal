@@ -53,6 +53,21 @@
         font-weight: bold;
         text-align: center;
     }
+
+    .box {
+        width: 800px;
+        background-color: #f9f9f9;
+        padding: 20px;
+        margin: 20px;
+    }
+    
+    .pageSetumei{
+        width: 800px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    
     .member-list {
         padding-left: 20px;
         padding-right: 20px;
