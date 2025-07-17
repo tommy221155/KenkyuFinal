@@ -41,15 +41,17 @@
 
     .etc-list {
         background-color: #f6bedc;
-    margin-top: 30px;
-    margin-bottom: 30px;
-    margin-left: 20px;
-    margin-right: 20px;
-    padding-top: 40px;
-    padding-bottom: 10px;
-    padding-left: 60px;
-    padding-right: 60px;
-    overflow: scroll;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        margin-left: 20px;
+        margin-right: 20px;
+        padding-top: 40px;
+        padding-bottom: 10px;
+        padding-left: 60px;
+        padding-right: 60px;
+        overflow: scroll;
+        display: flex;
+        flex-direction: column;
     }
     
     .etc-list li {
