@@ -20,6 +20,8 @@
 }
 
 .etc-list li {
+    padding-left: 60px;
+    padding-right: 60px;
     flex-shrink: 0;
     max-width: 400px;
 }
@@ -48,14 +50,38 @@
         margin-top: 10px;
         margin-left: 10px;
     }
+    .setumei{
+        text-indent: 1em;
+        line-height: 1.8;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        text-align: left;
+    }
+    .hukudai{
+    font-size: 33px;
+    margin-left: 20px;
+    margin-top: 20px; 
+    margin-bottom: 20px;
+    font-weight: bold;
+    text-align: left;
+    }
 }
 
 .setumei{
-    font-size: 22px;
+    text-indent: 1em;
+    line-height: 1.8;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: left;
 }
 
 .hukudai{
     font-size: 33px;
+    margin-left: 20px;
+    margin-top: 20px; 
+    margin-bottom: 20px;
+    font-weight: bold;
+    text-align: left;
 }
 
 .start{
