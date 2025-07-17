@@ -58,7 +58,7 @@
     }
     
     .etc-list li {
-        width: 700px;
+        width: 33%;
         margin-left: 30px;
         margin-right: 30px;
     }
@@ -71,7 +71,7 @@
     .setumei{
         text-indent: 1em;
         line-height: 1.8;
-        margin-top: 20px;
+        margin-top: 10px;
         margin-bottom: 20px;
         text-align: left;
     }
@@ -88,7 +88,7 @@
 .setumei{
     text-indent: 1em;
     line-height: 1.8;
-    margin-top: 20px;
+    margin-top: 10px;
     margin-bottom: 20px;
     text-align: left;
 }
