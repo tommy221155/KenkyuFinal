@@ -50,8 +50,6 @@
         padding-left: 60px;
         padding-right: 60px;
         overflow: scroll;
-        display: flex;
-        flex-direction: column;
     }
     
     .etc-list li {
