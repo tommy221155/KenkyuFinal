@@ -1,16 +1,16 @@
-.members {
-    background-color: #92c9ecfe;
+.uno {
+    background-color: #e6d68efe;
     padding-top: 45px;
     padding-bottom: 55px;
 }
 
-.members h2 {
+.uno h2 {
     font-size: 38px;
     font-weight: bold;
     text-align: center;
 }
 
-.member-list {
+.uno-list {
     display: flex;
     padding-top: 40px;
     padding-bottom: 10px;
@@ -20,7 +20,7 @@
     flex-direction: column;
 }
 
-.member-list li {
+.uno-list li {
     flex-shrink: 0;
     max-width: 1200px;
     display: flex;
@@ -58,7 +58,7 @@
 }
 
 @media (max-width: 800px) {
-    .members h2 {
+    .uno h2 {
         width: 800px;
         font-size: 33px;
         font-weight: bold;
