@@ -101,6 +101,10 @@ img {
 }
 
 @media (max-width: 800px) {
+    .first-view-text {
+        font-size: 45px;
+    }
+
     .site-menu ul {
         display: block;
         text-align: center;
