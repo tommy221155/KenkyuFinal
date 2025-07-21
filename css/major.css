@@ -5,7 +5,7 @@
 }
 
 .major h2 {
-    font-size: 22px;
+    font-size: 38px;
     font-weight: bold;
     text-align: center;
 }
@@ -42,13 +42,7 @@
     padding-right: 40px;
 }
 
-@media (max-width: 800px) {    
-    .major h2 {
-        font-size: 22px;
-        font-weight: bold;
-        text-align: center;
-    }
-
+@media (max-width: 800px) {
     .major-list {
         padding-left: 20px;
         padding-right: 20px;
