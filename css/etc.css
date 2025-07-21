@@ -33,6 +33,11 @@
     max-width: 400px;
 }
 
+img {
+    width: auto;
+    height: 150px;
+}
+
 @media (max-width: 800px) {
     .etc {
         background-color: #caebba;
@@ -64,6 +69,10 @@
         margin-right: 30px;
         min-width: 300px;
     }
+    img {
+        width: auto;
+        height: 150px;
+    }
     .start{
         width: 700px;
         font-size: 22px;
@@ -84,12 +93,12 @@
         text-align: center;
     }
     .hukudai{
-    font-size: 33px;
-    margin-left: 20px;
-    margin-top: 20px; 
-    margin-bottom: 20px;
-    font-weight: bold;
-    text-align: left;
+        font-size: 33px;
+        margin-left: 20px;
+        margin-top: 20px; 
+        margin-bottom: 20px;
+        font-weight: bold;
+        text-align: left;
     }
 }
 
