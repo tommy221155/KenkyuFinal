@@ -5,7 +5,7 @@
 }
 
 .etc h2 {
-    font-size: 22px;
+    font-size: 38px;
     font-weight: bold;
     text-align: center;
 }
@@ -77,6 +77,12 @@
         margin-bottom: 20px;
         text-align: left;
     }
+    .pageSetumei{
+        width: 800px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        text-align: center;
+    }
     .hukudai{
     font-size: 33px;
     margin-left: 20px;
@@ -93,6 +99,12 @@
     margin-top: 10px;
     margin-bottom: 20px;
     text-align: left;
+}
+
+.pageSetumei{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
 }
 
 .hukudai{
