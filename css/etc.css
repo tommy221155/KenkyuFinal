@@ -17,7 +17,7 @@
     margin-left: 20px;
     margin-right: 20px;
     padding-top: 40px;
-    padding-bottom: 100px;
+    padding-bottom: 200px;
     padding-left: 60px;
     padding-right: 60px;
     overflow-x: auto;
@@ -27,8 +27,8 @@
 }
 
 .etc-list li {
-    padding-left: 60px;
-    padding-right: 60px;
+    padding-left: 45px;
+    padding-right: 45px;
     flex-shrink: 0;
     max-width: 400px;
 }
