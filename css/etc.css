@@ -73,33 +73,6 @@
         width: auto;
         height: 180px;
     }
-    .start{
-        width: auto;
-        font-size: 22px;
-        margin-top: 10px;
-        margin-left: 10px;
-    }
-    .setumei{
-        text-indent: 1em;
-        line-height: 1.8;
-        margin-top: 10px;
-        margin-bottom: 20px;
-        text-align: left;
-    }
-    .pageSetumei{
-        width: auto;
-        padding-top: 20px;
-        padding-bottom: 20px;
-        text-align: center;
-    }
-    .hukudai{
-        font-size: 33px;
-        margin-left: 20px;
-        margin-top: 20px; 
-        margin-bottom: 20px;
-        font-weight: bold;
-        text-align: left;
-    }
 }
 
 .setumei{
@@ -107,12 +80,16 @@
     line-height: 1.8;
     margin-top: 10px;
     margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
     text-align: left;
 }
 
 .pageSetumei{
     margin-top: 20px;
     margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
     text-align: center;
 }
 
@@ -123,10 +100,4 @@
     margin-bottom: 20px;
     font-weight: bold;
     text-align: left;
-}
-
-.start{
-    font-size: 22px;
-    padding-left: 10px;
-    padding-top: 20px;
 }
