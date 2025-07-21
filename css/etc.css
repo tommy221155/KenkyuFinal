@@ -23,6 +23,7 @@
     overflow-x: auto;
     overflow-y: hidden;
     display: flex;
+    height: auto;
 }
 
 .etc-list li {
