@@ -54,6 +54,15 @@
     margin: 20px;
 }
 
+.box-p{
+    min-width: 500px;
+    text-indent: 1em;
+    line-height: 1.8;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
 .setumei{
     text-indent: 1em;
     line-height: 1.8;
@@ -78,7 +87,6 @@
 
     .box {
         line-height: 1.8;
-        min-width: 500px;
         background-color: #f9f9f9;
         overflow: scroll;
         padding-right: 20px;
