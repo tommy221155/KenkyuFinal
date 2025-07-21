@@ -11,21 +11,24 @@
 }
 
 .trunpe-list {
-    min-width: 1000px;
     display: flex;
     padding-top: 40px;
     padding-bottom: 10px;
-    padding-left: 60px;
-    padding-right: 60px;
+    padding-left: 10px;
+    padding-right: 10px;
     overflow: scroll;
     display: flex;
     flex-direction: column;
 }
 
 .trunpe-list li {
+    min-width: 1000px;
     flex-shrink: 0;
-    max-width: 1200px;
     display: flex;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
 }
 
 .pageSetumei{
@@ -75,8 +78,9 @@
 
     .box {
         line-height: 1.8;
-        width: 800px;
+        min-width: 500px;
         background-color: #f9f9f9;
+        overflow: scroll;
         padding-right: 20px;
         padding-left: 20px;
     }
