@@ -11,7 +11,6 @@
 }
 
 .trunpe-list {
-    min-width: 1000px;
     display: flex;
     padding-top: 40px;
     padding-bottom: 10px;
@@ -23,9 +22,13 @@
 }
 
 .trunpe-list li {
+    min-width: 1000px;
     flex-shrink: 0;
-    max-width: 1200px;
     display: flex;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
 }
 
 .pageSetumei{
