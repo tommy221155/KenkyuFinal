@@ -90,6 +90,7 @@
     
     .member-list li {
         min-width: 500px;
+        display: flex;
         flex-direction: column;
         padding-left: 20px;
         padding-right: 20px;
